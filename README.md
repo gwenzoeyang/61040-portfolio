@@ -5,9 +5,11 @@ This will be your portfolio repository. Use this as a [template repository](http
 *My name is Gwen-Zoe Yang, I'm a cross-registered Wellesley student at MIT interested in embedded software and AI/ML, it's nice to meet you! [Here is a link to my linkedin.](https://www.linkedin.com/in/gwenzoeyang/)*
 
 Some fun facts about me:
-1. I play volleyball
-2. I love to collect Pokèmon cards
-3. I have a dog and 5 chickens
+|  | Fun Facts about me |
+|-----:|-----------|
+|     1| I love to play volleyball and have played since I was 10 years old.|
+|     2| In my spare time, I like to collect Pokèmon cards!                 |
+|     3| At home in California, I have a golden retriever and 5 chickens.   |
 
 ![picture of snow leopard mama and baby](https://www.vidavetcare.com/wp-content/uploads/sites/234/2022/04/golden-retriever-dog-breed-info.jpeg)
 
