@@ -1,4 +1,4 @@
-# Project Ideation — Problem Framing (README)
+# Project Ideation — Problem Framing
 
 ## Domains (brainstorm → pick 3)
 
@@ -137,3 +137,5 @@
 - **Auto netting across many expenses.** Members log who paid what; the app computes a minimal set of transfers so each person pays or receives once. This eliminates dozens of small reimbursements.  
 - **Multi-payer aware (no single “designated payer”).** Multiple people can front costs throughout the trip, and the system still nets correctly at the end. This spreads burden without creating reconciliation chaos.  
 - **Due-by reminders with proof-of-payment check.** Gentle nudges and a simple “mark paid” with optional receipt/photo reduce chasing and confusion. Exports to your preferred payment app keep the tool payment-agnostic.
+
+**GPT use: used to put my bullets and ideas into full sentences!**
