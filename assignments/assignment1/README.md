@@ -91,7 +91,7 @@
 5. Workday is confirmed as Wellesley’s system of record for student data and registration—any planner must align with it. <https://www1.wellesley.edu/workday>  
 6. Workday Student page shows how registration actually happens, guiding planner UI/flow alignment. <https://www1.wellesley.edu/workday/student>  
 7. Official Wellesley–MIT Exchange Bus schedule enables adding realistic travel buffers for cross-reg classes. <https://www.wellesley.edu/about-us/offices-departments/transportation/shuttle-bus-schedule>  
-8. Private Wellesley Q&A forum post: Above-average upvotes vs typical baseline → signals authentic local demand. ![](IMG_41C6D0EE21B1-1.jpeg?raw=true)
+8. Private Wellesley Q&A forum post: Above-average upvotes vs typical baseline → signals authentic local demand. <https://github.com/gwenzoeyang/61040-portfolio/blob/main/assignments/assignment1/IMG_41C6D0EE21B1-1.jpeg>
 9. Personal communication: “Yes, I do think that Wellesley could do with a better course planner, since Workday is actually so hard to use” -Tongtong Ye, Wellesley '26.
 10. Personal communication: "I would definitely use something like that, especially if it could account for travel times on the loco. I have lab in the middle of the day a lot, so I would definitely be interested in something like that." -Joyce Nishimwe, Wellesley '27.
 
