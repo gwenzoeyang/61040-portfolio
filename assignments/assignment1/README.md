@@ -91,9 +91,9 @@
 5. Workday is confirmed as Wellesley’s system of record for student data and registration—any planner must align with it. <https://www1.wellesley.edu/workday>  
 6. Workday Student page shows how registration actually happens, guiding planner UI/flow alignment. <https://www1.wellesley.edu/workday/student>  
 7. Official Wellesley–MIT Exchange Bus schedule enables adding realistic travel buffers for cross-reg classes. <https://www.wellesley.edu/about-us/offices-departments/transportation/shuttle-bus-schedule>  
-8. MIT Registrar’s Wellesley cross-registration instructions confirm the active pathway and logistical constraints. <https://registrar.mit.edu/registration-academics/registration-information/cross-registration/wellesley/instructions-wellesley>  
-9. Wellesley Handbook page on cross-registration clarifies policies (e.g., proper registration at both schools). <https://www1.wellesley.edu/studentlife/aboutus/handbook/academic/xreg>  
-10. Wellesley News coverage references course browser/Workday contexts, reinforcing them as authoritative sources students rely on. <https://thewellesleynews.com/21054/news-investigation/what-to-know-about-saturday-registration-credits-after-woaw-strike/>
+8. Private Wellesley Q&A forum post: Above-average upvotes vs typical baseline → signals authentic local demand. <https://registrar.mit.edu/registration-academics/registration-information/cross-registration/wellesley/instructions-wellesley>  
+9. Personal communication: “Yes, I do think that Wellesley could do with a better course planner, since Workday is actually so hard to use” -Tongtong Ye, Wellesley '26.
+10. Personal communication: "I would definitely use something like that, especially if it could account for travel times on the loco. I have lab in the middle of the day a lot, so I would definitely be interested in something like that." -Joyce Nishimwe, Wellesley '27.
 
 ### 2) Campus Textbook Swap Without Platform Fees
 1. Students vent about textbook costs… anecdotal but representative of widespread pain. <https://www.reddit.com/r/college/comments/rw1s5h/textbooks_are_ungodly_expensive/>  
