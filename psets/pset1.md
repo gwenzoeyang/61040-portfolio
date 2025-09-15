@@ -284,4 +284,7 @@ a set of Sessions with
 **notes**  
 - Exactly one active session per employee prevents overlap.  
 - `adjustTimes` provides a controlled correction path after review.  
-- The `autoEndStale` action would presumably be used by an admin, so there is no “hours limit,” it is just a manual action that will be taken if an admin notices that an employee’s session has gone on too long. It will flag them for review and allow the admin to talk to the employee to come to a consensus.  
+- The `autoEndStale` action would presumably be used by an admin, so there is no “hours limit,” it is just a manual action that will be taken if an admin notices that an employee’s session has gone on too long. It will flag them for review and allow the admin to talk to the employee to come to a consensus.
+
+
+LLM Usage: I used them to restate my words more succintly and eloquently. I also used them to formulate the skeletons of the concept specifications
