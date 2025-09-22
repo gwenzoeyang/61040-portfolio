@@ -193,5 +193,5 @@ incentivize people to create accounts. Allowing them to view analytics
 without an account would disincentivize them.
 
 
-I used AI in this assignment to again, reword my bulleted answers and to help me brainstorm.
+AI Usage: I used AI in this assignment to again, reword my bulleted answers and to help me brainstorm.
 I also used it to create skeletal outlines of concept designs so I could fill them in.
