@@ -38,6 +38,7 @@ plans manually, risking mistakes and missed opportunities.
    login/VPN off-campus, which breaks unauthenticated third-party planners.
 4. **Student discussion board** – Comment citing Coursicle as a top option historically,
    highlighting the gap now that it doesn’t support Wellesley. Upvotes back up the comment
+   ![Sidechat Comment](sidechatcomment.jpg)
 5. **Direct Student Quotes** – Classmates confirm the need: “Workday is actually so hard to
    use” (Tongtong Ye, ‘27); “I would definitely use something like that, especially if it could
    account for travel times for MIT classes” (Joyce Nishimwe, ‘27)
@@ -233,12 +234,7 @@ them aligned, so the planner feels accurate, reliable, and easy to use.
 ## **UI Sketches**
 *Sketches A-D from left to right, top to bottom*
 
-> _Add your images here, e.g.:_  
-> `![Sketch A](path/to/sketchA.png)`  
-> `![Sketch B](path/to/sketchB.png)`  
-> `![Sketch C](path/to/sketchC.png)`  
-> `![Sketch D](path/to/sketchD.png)`
-
+![Sketches](sketches.jpg)
 ---
 
 ## **User Journey**
