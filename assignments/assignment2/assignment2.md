@@ -49,7 +49,7 @@ plans manually, risking mistakes and missed opportunities.
 
 **Name:** SchedulEZ  
 **Motivation:** Students spend hours fighting with Workday or spreadsheets just to make a
-feasible schedule. SchedulEase makes planning fast, simple, and stress-free.
+feasible schedule. SchedulEZ makes planning fast, simple, and stress-free.
 
 **Key Features:**
 1. **Live Course Import** – Each semester, the app scrapes and pulls the latest course
@@ -240,7 +240,7 @@ them aligned, so the planner feels accurate, reliable, and easy to use.
 **Trigger**  
 It’s the end of the semester, and Ana, a Wellesley sophomore, needs to plan her courses for
 spring. Workday feels overwhelming, and she wants a faster way to test schedules before
-meeting her advisor. She opens SchedulEase.
+meeting her advisor. She opens SchedulEZ.
 
 **Step 1: Explore the Schedule Page**  
 On the Schedule Page (see Sketch A), Ana sees her week laid out Monday through Friday with
