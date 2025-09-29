@@ -33,7 +33,7 @@ plans manually, risking mistakes and missed opportunities.
 1. **Workday incapabilities** – The difficult UI and interface of Workday results in mistakes in
    registration and difficulty creating future class plans.
 2. **Reddit Comment (Manual workarounds)** – Many resort to building schedules by hand in
-   spreadsheets, which is inefficient and error-prone. (link)
+   spreadsheets, which is inefficient and error-prone. [Reddit comment](https://www.reddit.com/r/college/comments/8k101h/comment/dz4557d/)
 3. **Low accessibility for 3rd party planning sites** – Wellesley’s course browser itself requires
    login/VPN off-campus, which breaks unauthenticated third-party planners.
 4. **Student discussion board** – Comment citing Coursicle as a top option historically,
@@ -46,8 +46,6 @@ plans manually, risking mistakes and missed opportunities.
 ---
 
 ## **Application Pitch**
-
-https://www.reddit.com/r/college/comments/8k101h/comment/dz4557d/
 
 **Name:** SchedulEZ  
 **Motivation:** Students spend hours fighting with Workday or spreadsheets just to make a
