@@ -18,7 +18,7 @@ My goals for the semester:
 ![picture of golden retriever](https://www.vidavetcare.com/wp-content/uploads/sites/234/2022/04/golden-retriever-dog-breed-info.jpeg)
 
 # Table of Contents
-[Link to Assignment 1](assignments/assignment1/projectideation.md)
+[Link to Assignment 1](assignments/assignment1/project_ideation.md)
 
 [Link to PSET 1](psets/pset1.md)
 
