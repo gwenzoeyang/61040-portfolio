@@ -279,4 +279,5 @@ plan is realistic, balanced, and tailored to her needs.
 ## **AI use**
 I used AI to build on my idea from last time, as well as reword a lot of my work. I did not
 use it for the sketches because I didn’t like what it gave me, but it was very useful in the writing
-portions, especially the User Journey.
+portions, especially the User Journey. I used it more this time since I already had a basis of idea
+(from assignment 1) to go off of.
